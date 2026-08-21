@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TheVoidsmp11.aternos.me
+    "ip": "TheVoidSmp-ctmt.aternos.me
 ",
-    "port": 21796
+    "port": 64246
     "version": "1.21.11",
     "try-creative": false
   },
@@ -61,7 +61,7 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
